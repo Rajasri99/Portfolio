@@ -1,10 +1,9 @@
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
-import { useRef, useState, useEffect } from 'react'
+import { useRef, useState } from 'react'
 import { 
   Calendar, 
   Clock,
-  ExternalLink,
   Users,
   Award,
   Eye,

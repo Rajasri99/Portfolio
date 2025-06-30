@@ -2,8 +2,7 @@
 
 import { motion, useInView } from 'framer-motion'
 import { useRef } from 'react'
-import { Astronaut, Planet, UFO, Rocket, Star, LimeOrb } from './SpaceObjects'
-import exampleImage from 'figma:asset/02452171ab3bdaf52f263e2f4ccf527bc31010a8.png'
+import { Astronaut, UFO, Star, LimeOrb } from './SpaceObjects'
 
 interface ProjectShowcase {
   id: number

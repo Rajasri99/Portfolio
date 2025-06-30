@@ -4,15 +4,8 @@ import { useRef } from 'react'
 import { 
   Award,
   Trophy,
-  Calendar,
-  MapPin,
-  ExternalLink,
   Star,
   Building2,
-  GraduationCap,
-  Code,
-  Palette,
-  Users
 } from 'lucide-react'
 import { ImageWithFallback } from './figma/ImageWithFallback'
 

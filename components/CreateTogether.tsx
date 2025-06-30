@@ -109,7 +109,7 @@ const CreateTogether = () => {
                 title: "Ongoing Support",
                 description: "Continuous collaboration and support to ensure your project reaches new heights"
               }
-            ].map((feature, index) => (
+            ].map((feature) => (
               <motion.div
                 key={feature.title}
                 variants={itemVariants}

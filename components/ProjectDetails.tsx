@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
 import { useState } from 'react'
-import { Astronaut, Planet, UFO, Rocket, Star, LimeOrb } from './SpaceObjects'
+import { Astronaut,  Rocket, Star, LimeOrb } from './SpaceObjects'
 import { ImageWithFallback } from './figma/ImageWithFallback'
 
 // Project images - Direct Unsplash links
